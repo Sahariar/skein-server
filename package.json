@@ -1,7 +1,7 @@
 {
   "name": "skein-server",
   "version": "1.0.0",
-  "description": "Server for skein funrniture.",
+  "description": "Server for skein furniture.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
